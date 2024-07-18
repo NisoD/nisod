@@ -4,7 +4,6 @@
 Welcome to my GitHub profile! I'm a second-year computer science student passionate about data science and deep learning. I love creating standout projects in C++ and Python and can tolerate some JavaScript.
 
 ## 🔭 Projects I'm Working On
-- **[Catan Clone]**: A project in C++ for cloning the Catan game.
 - **[Taskify]**: A project for gamifying tasks and managing the daily marathon of our lives.
 
 ## 🌱 What I'm Learning
