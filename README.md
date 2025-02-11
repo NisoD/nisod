@@ -20,11 +20,6 @@ Welcome to my GitHub profile! I'm a second-year computer science student passion
 - Email: [daniel.nisnevich@mail.huji.ac.il]
 - LinkedIn: [Profile](https://linkedin.com/in/daniel-nisnevich)
 
-## ⚡ Fun Facts
-- I enjoy gamifying my tasks to manage ADHD and stay productive.
-- I believe in using AI to improve our efficiency and productivity.
-- I love swimming and take part in my university’s competitive swimming team.
-
 Feel free to explore my repositories and connect with me!
 
 ---
