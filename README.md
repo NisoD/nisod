@@ -8,13 +8,14 @@ Welcome to my GitHub profile! I'm a second-year computer science student passion
 
 
 ## 🌱 What I'm Learning
-- Advanced techniques in deep learning.
+- Tmux
+- Neovim as a main IDE
 - Data science methodologies and applications.
+- Continue Watching Lecture 4 of  [The Missing Semester](https://missing.csail.mit.edu/2020/data-wrangling/)
 
 ## 💼 Career Goals
-- To land my first developer job where I can apply my knowledge and skills.
-- To contribute to innovative projects and collaborate with other passionate developers.
-- To continuously improve and learn new technologies and methodologies.
+- MSc in Computer Science at HUJI
+- Part Time Position starting 04/25
 
 ## 📫 How to Reach Me
 - Email: [daniel.nisnevich@mail.huji.ac.il]
