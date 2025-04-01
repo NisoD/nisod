@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a second-year computer science student passion
 
 
 ## 🌱 What I'm Learning
-- Tmux
 - Neovim as a main IDE
 - Data science methodologies and applications.
 - Continue Watching Lecture 4 of  [The Missing Semester](https://missing.csail.mit.edu/2020/data-wrangling/)
+- Bandit OverTheWire
 
 ## 💼 Career Goals
 - MSc in Computer Science at HUJI
