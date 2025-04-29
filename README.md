@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a third-year computer science student passiona
 
 ## 🌱 What I'm Learning
 - Neovim as a main IDE
-- Archlinux as main OS
+- Arch linux as main OS
 - Advanced NLP Course at @HUJI
 - Operating Systems Course @HUJI
 - Continue Watching Lecture 4 of  [The Missing Semester](https://missing.csail.mit.edu/2020/data-wrangling/)
